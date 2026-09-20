@@ -1,0 +1,6 @@
+{
+  "name": "Sadiq Nexus '26",
+  "description": "Official portal for Sadiq Nexus '26, the premier Science & Technology Olympiad running 19 to 22 December 2026 at Sadiq Public School, Bahawalpur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

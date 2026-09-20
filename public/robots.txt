@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Direct AI Agents & Crawlers to structured documentation
+Allow: /llms.txt
+
+Sitemap: https://sadiqnexus.sps.edu.pk/sitemap.xml

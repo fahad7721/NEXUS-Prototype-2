@@ -1,0 +1,33 @@
+# Sadiq Nexus '26 – Science & Technology Olympiad
+> South Punjab's flagship inter-collegiate Science, Engineering, and Technology conclave hosted on the historic 450-acre grounds of Sadiq Public School, Bahawalpur from 19 to 22 December 2026.
+
+## Institutional Background & Audience
+- Host Institution: Sadiq Public School (SPS Bahawalpur), established in 1954 under royal charter by His Highness Sir Sadiq Muhammad Khan V Abbasi.
+- Target Audience: High-performance academic delegations, school STEM contingents, pre-engineering and pre-medical collegiate scholars from secondary and higher-secondary institutions across Pakistan.
+- Delegation Structure: Contingents of 5 to 8 delegates led by an accredited Head Delegate or Faculty Advisor.
+- Tiered Pricing: Automated date-based fee calculation. Early Bird (Delegation Fee: Free, Delegate Fee: PKR 6,000/member); Regular Tier (Delegation Fee: PKR 5,000, Delegate Fee: PKR 7,000/member); Late Tier (Delegation Fee: PKR 6,000, Delegate Fee: PKR 8,000/member). No on-spot registrations.
+
+## Key Arenas & Competitions (14 Disciplines)
+- Robo-X Mechatronics: Autonomous robotics, PID sensor line-tracking, arena obstacle navigation, and circuit stress testing.
+- Hackathon & AI Arena: 24-hour algorithmic computation, machine learning pipelines, and functional software prototyping.
+- Cholistan Skies (Aerospace): Pneumatic rocketry, aerodynamic payload physics, structural stability, and parachute recovery systems.
+- CID Forensic Investigation: Latent fingerprint recovery, crime scene trajectory geometry, forensic toxicology, and analytical deduction.
+- Alchemist & BioBlade: Precision analytical wet-titrations, molecular genetics, CRISPR sequencing, and anatomical dissection.
+- Mind Games & Mathematics: Pure olympiad mathematics, deductive cryptography, logic trees, and rapid problem rounds.
+- Innovation Expo: Working hardware prototypes, green technology solutions, and applied science inventions.
+- Tactical E-Sports & PnA: Competitive multiplayer arena strategy, creative photographic journalism, and visual arts.
+
+## Problems Solved for Delegations
+- Centralized Institutional Dossiers: Eliminates paper registration chaos, mismatched rosters, and lost receipts via a self-service accredited portal.
+- Clash-Free Scheduling Matrix: Algorithmic timetable synchronization guarantees delegates can compete across core tracks without overlapping round clashes.
+- Verified On-Campus Residential Sanctuary: Secure separate male and female boarding with medical dispensary, 24/7 campus security, and hygienic dining.
+- 4-Day Curated Social Calendar: Collegiate laser combat, live musical concerts, traditional Sufi Qawwali night, and a prestigious black-tie awards banquet.
+
+## Important Links
+- Official Website: https://sadiqnexus.sps.edu.pk/
+- Heritage & Governance: https://sadiqnexus.sps.edu.pk/about
+- Academic Categories & Rules: https://sadiqnexus.sps.edu.pk/categories
+- 4-Day Evening Socials: https://sadiqnexus.sps.edu.pk/socials
+- Official Delegation Registration: https://sadiqnexus.sps.edu.pk/register
+- Code of Institutional Conduct: https://sadiqnexus.sps.edu.pk/conduct
+- Legal Release & Waiver: https://sadiqnexus.sps.edu.pk/waiver

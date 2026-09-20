@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Inter', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-display: 'Playfair Display', 'Cinzel', Georgia, serif;
+  --color-nexus-black: #000000;
+  --color-nexus-zinc: #09090b;
+  --color-nexus-purple: #9333ea;
+  --color-nexus-purple-light: #a855f7;
+  --color-nexus-purple-dark: #581c87;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Inter', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    background-color: #000000;
+    color: #ffffff;
+  }
+
+  body {
+    background-color: #000000;
+    color: #ffffff;
+    overflow-x: hidden;
+  }
+}
+
+/* Glassmorphism with Subtle Vivid Purple Accents */
+.glass-panel {
+  background: rgba(18, 18, 24, 0.6);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  border: 1px solid rgba(147, 51, 234, 0.2);
+}
+
+.glass-panel-hover {
+  transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.glass-panel-hover:hover {
+  background: rgba(26, 14, 46, 0.7);
+  border-color: rgba(168, 85, 247, 0.5);
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.7), 0 0 20px rgba(147, 51, 234, 0.25);
+}
+
+/* Subtle architectural coordinate grid in faint purple */
+.bg-grid-pattern {
+  background-size: 60px 60px;
+  background-image: 
+    linear-gradient(to right, rgba(147, 51, 234, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(147, 51, 234, 0.05) 1px, transparent 1px);
+}
